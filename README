@@ -7,7 +7,6 @@ http://craftycomponents.com/
 
 Example : 
 
-// this.realDelay(func, delay);
 Crafty.e("RealDelay").realDelay(function() {
 	this.destroy();
 },2500);
