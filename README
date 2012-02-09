@@ -1,3 +1,14 @@
-Component CraftyJS Framework >= 0.4.5
+RealDelay
+
+Component for CraftyJS Framework >= 0.4.5
 http://craftyjs.com/
 http://craftycomponents.com/
+
+
+Example : 
+
+// this.realDelay(func, delay);
+Crafty.e("RealDelay").realDelay(function() {
+	this.destroy();
+},2500);
+	
