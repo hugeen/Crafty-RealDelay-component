@@ -1,0 +1,23 @@
+{
+	"name": "RealDelay",
+	"version": "0.1",
+	"title": "RealDelay, can be paused, destroys itself with its entity",
+	"author": {
+		"name": "hugeen",
+		"url": "https://github.com/hugeen"
+	},
+	"jsfiddle": "disable",
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/hugeen/Crafty-RealDelay-component/blob/master/license.md"
+		}
+	],
+	"dependencies": {
+		"Crafty": ">0.4.2"
+	},
+	"description": "The RealDelay method will execute a function after a given amount of time in milliseconds. RealDelay is pausable and destroyed with its entity can be paused, destroys itself with its entity",
+	"keywords": ["delay", "pause", "destroy", "setTimeout"],
+	"homepage": "https://github.com/hugeen/Crafty-RealDelay-component",
+	"files": ["realDelay.js"]
+}
